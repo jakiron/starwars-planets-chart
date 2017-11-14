@@ -1,0 +1,25 @@
+*{
+  font-family: Helvetica;
+  background-color: #111;
+  color: #eee;
+}
+
+h1{
+  text-align: center;
+}
+
+svg{
+  width: 80%;
+  height: 80%;
+  float:left;
+}
+
+#planet-info{
+  float:left;
+  width:20%;
+  height: 100px;
+}
+
+circle:hover{
+  cursor: pointer;
+}
